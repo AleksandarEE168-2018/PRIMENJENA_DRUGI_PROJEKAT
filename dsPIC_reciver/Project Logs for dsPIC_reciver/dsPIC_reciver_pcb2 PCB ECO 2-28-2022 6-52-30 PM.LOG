@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM2 Pin=U1-22
+Removed Pin From Net: NetName=SERVO_PWM Pin=U1-34
+Added Pin To Net: NetName=SERVO_PWM Pin=U1-22
+Added Pin To Net: NetName=PWM2 Pin=U1-34

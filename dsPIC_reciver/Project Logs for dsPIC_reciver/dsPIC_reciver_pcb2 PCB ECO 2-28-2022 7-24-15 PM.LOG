@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=LED1 Old Footprint=CAP200 New Footprint=LED_2
+Change Component Footprint: Designator=LED2 Old Footprint=CAP200 New Footprint=LED_2
+Change Component Footprint: Designator=LED3 Old Footprint=CAP200 New Footprint=LED_2
+Change Component Footprint: Designator=Y1 Old Footprint=R38 New Footprint=OSC_5
